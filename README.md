@@ -5,8 +5,8 @@
 ```json
 {
   "url": "https://stream.watsonplatform.net/speech-to-text/api",
-  "username": "70b432fa-16a5-4e48-b8ef-8d62dc567214",
-  "password": "sii4STX8hd1W"
+  "username": "xxxxx",
+  "password": "xxxxx"
 }
 ```
 
